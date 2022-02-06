@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/starcatchers_catchgame/static/css/main.15c5ed9c.chunk.css",
+    "main.js": "/starcatchers_catchgame/static/js/main.6e42f2dc.chunk.js",
+    "main.js.map": "/starcatchers_catchgame/static/js/main.6e42f2dc.chunk.js.map",
+    "runtime-main.js": "/starcatchers_catchgame/static/js/runtime-main.b91f0c8e.js",
+    "runtime-main.js.map": "/starcatchers_catchgame/static/js/runtime-main.b91f0c8e.js.map",
+    "static/css/2.f1bd3b54.chunk.css": "/starcatchers_catchgame/static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.7372b25b.chunk.js": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js",
+    "static/js/2.7372b25b.chunk.js.map": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js.map",
+    "index.html": "/starcatchers_catchgame/index.html",
+    "precache-manifest.f9969861f30abea85b340ee428d002a3.js": "/starcatchers_catchgame/precache-manifest.f9969861f30abea85b340ee428d002a3.js",
+    "service-worker.js": "/starcatchers_catchgame/service-worker.js",
+    "static/css/2.f1bd3b54.chunk.css.map": "/starcatchers_catchgame/static/css/2.f1bd3b54.chunk.css.map",
+    "static/css/main.15c5ed9c.chunk.css.map": "/starcatchers_catchgame/static/css/main.15c5ed9c.chunk.css.map",
+    "static/js/2.7372b25b.chunk.js.LICENSE.txt": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js.LICENSE.txt",
+    "static/media/SC_game_catchstar-03-min.png": "/starcatchers_catchgame/static/media/SC_game_catchstar-03-min.7f2ccb9a.png",
+    "static/media/SC_game_catchstar-04-min.png": "/starcatchers_catchgame/static/media/SC_game_catchstar-04-min.69d925d6.png",
+    "static/media/SC_game_catchstar-05-min.png": "/starcatchers_catchgame/static/media/SC_game_catchstar-05-min.9597e80e.png",
+    "static/media/SC_game_catchstar-06-min.png": "/starcatchers_catchgame/static/media/SC_game_catchstar-06-min.2a30c9ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b91f0c8e.js",
+    "static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.7372b25b.chunk.js",
+    "static/css/main.15c5ed9c.chunk.css",
+    "static/js/main.6e42f2dc.chunk.js"
+  ]
+}
